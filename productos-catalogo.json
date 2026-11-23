@@ -1217,5 +1217,115 @@
     "sourcePage": 42,
     "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#42",
     "displayName": "Detalle sin nombre · página 42"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "3 rosas, 3 tulipanes",
+    "price": "$56.000 COP",
+    "priceCOP": 56000,
+    "image": "producto-p44-rosas-tulipanes.jpg",
+    "sourcePage": 44,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#44",
+    "displayName": "Detalle sin nombre · página 44"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "6 girasoles + mariposa",
+    "price": "$80.000 COP",
+    "priceCOP": 80000,
+    "image": "producto-p44-girasoles-mariposa.jpg",
+    "sourcePage": 44,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#44",
+    "displayName": "Detalle sin nombre · página 44"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "3 rosas, globo personalizado",
+    "price": "$45.000 COP",
+    "priceCOP": 45000,
+    "image": "producto-p45-rosas-globo.jpg",
+    "sourcePage": 45,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#45",
+    "displayName": "Detalle sin nombre · página 45"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "1 girasol",
+    "price": "$20.000 COP",
+    "priceCOP": 20000,
+    "image": "producto-p45-girasol.jpg",
+    "sourcePage": 45,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#45",
+    "displayName": "Detalle sin nombre · página 45"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "12 rosas + coronita + mariposa",
+    "price": "$119.000 COP",
+    "priceCOP": 119000,
+    "image": "producto-p46-12-rosas.jpg",
+    "sourcePage": 46,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#46",
+    "displayName": "Detalle sin nombre · página 46"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "6 rosas + 1 girasol + mariposa",
+    "price": "$75.000 COP",
+    "priceCOP": 75000,
+    "image": "producto-p46-rosas-girasol.jpg",
+    "sourcePage": 46,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#46",
+    "displayName": "Detalle sin nombre · página 46"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "8 rosas + coronita + mariposa",
+    "price": "$86.000 COP",
+    "priceCOP": 86000,
+    "image": "producto-p47-8-rosas.jpg",
+    "sourcePage": 47,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#47",
+    "displayName": "Detalle sin nombre · página 47"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "30 rosas + coronita + mariposa + cinta",
+    "price": "$245.000 COP",
+    "priceCOP": 245000,
+    "image": "producto-p47-30-rosas.jpg",
+    "sourcePage": 47,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#47",
+    "displayName": "Detalle sin nombre · página 47"
+  },
+  {
+    "name": "",
+    "category": "Rosas eternas",
+    "contents": "3 rosas + carrito",
+    "price": "$53.000 COP",
+    "priceCOP": 53000,
+    "image": "producto-p48-rosas-carrito.jpg",
+    "sourcePage": 48,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#48",
+    "displayName": "Detalle sin nombre · página 48"
+  },
+  {
+    "name": "Dulce inspiración",
+    "category": "Rosas eternas",
+    "contents": "Consulta los detalles por WhatsApp.",
+    "price": "$70.000 COP",
+    "priceCOP": 70000,
+    "image": "producto-p48-dulce-inspiracion.jpg",
+    "sourcePage": 48,
+    "sourceUrl": "https://www.canva.com/design/DAGOZhWymVE/bcshZA0jn7G2F3loqmhMkg/view#48",
+    "displayName": "Dulce inspiración"
   }
 ]
