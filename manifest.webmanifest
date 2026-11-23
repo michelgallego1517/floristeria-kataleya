@@ -1,0 +1,20 @@
+{
+  "name": "Floristería Kataleya",
+  "short_name": "Kataleya",
+  "description": "Ramos y detalles personalizados en Norcasia, Caldas.",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#c889a9",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
